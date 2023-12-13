@@ -1,0 +1,25 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.nav a {
+    font-size: 1.2rem;
+}
+
+.row {
+    padding: 1rem 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.row:hover {
+    background-color: #f87b2c;
+}
+
+
+

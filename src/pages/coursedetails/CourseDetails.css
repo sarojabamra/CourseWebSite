@@ -1,0 +1,11 @@
+#bg {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(90deg, #F87F32 0.34%, #FA9A25 99.81%);
+}
+
+
+
+.display {
+    margin-top: 2rem;
+}

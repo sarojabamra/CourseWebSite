@@ -1,0 +1,49 @@
+.week_card {
+    background-color: #F4F4F4;
+    width: 94.5%;
+    height: auto;
+    padding: 1.5rem 2rem;
+    margin-top: 0.6rem;
+    border-radius: 5px;
+}
+
+.week_card h3 {
+    color: #102251;
+    margin-top: 0.2rem;
+}
+
+.week_card .description {
+    margin-top: 0.2rem;
+}
+
+.week_card:hover {
+    background-color: #EBEBEB;
+}
+
+@media screen and (max-width:1500px) {
+    .week_card {
+        width:93%;
+    }
+    
+}
+
+@media screen and (max-width:1200px) {
+    .week_card {
+        width:90%;
+    }
+    
+}
+
+@media screen and (max-width:700px) {
+    .week_card {
+        width:85%;
+    }
+    
+}
+
+@media screen  and (max-width: 450px){
+    .week_card {
+        width: auto;
+    }
+    
+}

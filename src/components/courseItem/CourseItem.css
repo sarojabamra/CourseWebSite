@@ -1,0 +1,119 @@
+
+.card {
+    margin-top: 0.5rem;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    background: #F4F4F4;
+}
+
+.card:hover {
+    background-color: #EBEBEB;    
+}
+
+.img_text {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    
+    gap: 1rem;
+}
+
+.link {
+    color: #102251;
+    margin: -0.5rem;
+}
+
+
+.item_img {
+    height: 8rem;
+    width: 8rem;
+    margin-bottom: 0.7rem;
+}
+
+
+h3 {
+    font-size: 1.45rem;
+}
+
+.text .instructor {
+    margin-top: 0.5rem;
+    opacity: 75%;
+    margin-bottom: 0.5rem;
+}
+
+.instructor {
+    margin-top: 0.5rem;
+    opacity: 75%;
+}
+
+.description {
+    margin-top: 0.6rem;
+    font-size: 0.9rem;
+}
+
+.preview-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 35%;
+}
+.preview {
+    padding: 0rem 1rem;
+}
+
+
+.detail_button {
+    padding: 1rem 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text {
+    padding: 0.3rem 0rem;
+}
+
+
+.orange-bg2 {
+    color: white;
+    height: 3rem;
+    font-size: 1rem;
+    font-weight: 500;
+    border-radius: 5px;
+    padding: 0rem rem;
+    border: 3px solid #F87F32;
+    background: #F87F32;
+}
+
+@media screen and (max-width: 950px) {
+    .preview .description {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width:700px ){
+    .detail_button {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 1300px){
+    .preview-content{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 10%;
+    }
+}
+
+@media screen and (max-width:500px){
+    .img_text {
+        flex-wrap: wrap;
+    }
+
+    .text {
+        margin-top: -1.8rem;
+    }
+}

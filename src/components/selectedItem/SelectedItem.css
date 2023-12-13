@@ -1,0 +1,56 @@
+.card2 {
+    margin-top: 0.5rem;
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    background: #F4F4F4;
+}
+
+.card2:hover {
+    background-color: #EBEBEB;    
+}
+
+
+
+.selected .instructor {
+    margin-top: 0rem;
+    font-size: 0.8rem;
+}
+
+
+.tick {
+    height: 2rem;
+    width: 2rem;
+    margin-left: 25%;
+}
+
+.tick:hover {
+    cursor: pointer;
+    
+}
+
+.selected p {
+    margin-top: -0.5rem;
+    
+}
+
+.selected_img {
+    height: 3rem;
+    width: 3rem;
+    padding: 1rem 1rem;
+}
+
+@media screen and (max-width: 900px) {
+    .progress {
+        display: none;
+    }
+
+    .duration {
+        display: none;
+    }
+
+    .grid {
+        grid-template-columns: 1.5fr 2fr 1fr;
+    }
+}
+

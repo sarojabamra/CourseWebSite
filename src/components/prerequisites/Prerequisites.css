@@ -1,0 +1,20 @@
+.prerequisite {
+    display:inline-block;
+    margin-right: 0.5rem;
+    margin-top: 0.5rem;
+    padding: 0.8rem 1rem;
+    border: 2px solid #102251;
+    border-radius: 5px;
+}
+
+.prerequisite p {
+    color: #102251;
+}
+
+.pre p {
+    color:#102251;
+}
+
+.pre{
+    margin-top:0.5rem;
+}

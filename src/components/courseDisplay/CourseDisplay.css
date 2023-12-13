@@ -1,0 +1,82 @@
+.course_img img{
+    width: 100%;
+    height: auto;
+    margin-top: -30%;
+}
+
+.syllabuscards {
+    margin-top: 1rem;
+}
+
+.course_img {
+    height: 20rem;
+    overflow: hidden;
+    
+    border-radius: 5px 5px 0 0;
+}
+
+
+.schedule {
+    margin-top: 0.1rem;
+}
+.coursedisplay {
+    padding: 2rem 2em;
+}
+
+
+.title {
+    color: #102251;
+    margin-top: 1rem;
+}
+
+.coursedisplay .column {
+    padding: 0;
+    flex-wrap: wrap;
+    
+}
+
+.left {
+    margin-top: -1rem;
+    margin-left: 0.5rem;
+}
+
+.status {
+    opacity: 75%;
+    margin-top: 0.5rem;
+}
+
+.week {
+    margin-top: 0.3rem;
+    opacity: 50%;
+}
+
+
+.column .week {
+    justify-content: flex-start;
+    gap: 8%;
+
+}
+
+.left .description {
+    margin-top: -0.25rem;
+}
+
+@media screen and (max-width: 880px) {
+    .enroll {
+    margin-top: 0.8rem;
+    margin-left: 0.5rem;
+    }
+
+    .course_img {
+        height: auto;
+        overflow: hidden;
+        
+        border-radius: 5px 5px 0 0;
+    }
+
+    .course_img img{
+        width: 100%;
+        height: auto;
+    }
+    
+}

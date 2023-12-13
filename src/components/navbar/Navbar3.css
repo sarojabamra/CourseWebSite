@@ -1,0 +1,98 @@
+
+
+.navbar {
+    width: 84%;
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+    flex-direction: row;
+    justify-content: space-between;
+    z-index: 999;
+  }
+  
+  
+  .logo2 {
+    color: white;
+    font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  }
+  
+  .nav_menu {
+    margin-top: 0rem;
+    display: flex;
+    flex-direction: row;
+  
+  }
+  
+  .margin {
+    margin-top: 0.7rem;
+  }
+  
+  a {
+    
+    text-decoration: none;
+    font-weight: 500;
+    color: white;
+    padding: 0px 0.5rem;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 5px;
+  border: 3px solid #FFF;
+  background: #FFF;
+  color: #F87E32;
+  }
+  
+  .outline {
+    color: white;
+    background: transparent;
+    border: 3px solid #FFF;
+  }
+  
+  .btn2 {
+    margin-left: -1rem;
+  }
+  
+  Link {
+    text-decoration: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  
+  .btn2:hover {
+    border-radius: 5px;
+    border: 3px solid #FFF;
+     background: #FFF;
+    color: #F87E32;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
+  a:hover {
+    cursor: pointer;
+  }
+  
+  
+  .checkbtn img {
+      
+      margin-top: 2.5rem;    
+  }
+  
+  .checkbtn img:hover {
+    cursor: pointer;
+  }
+  
+  #check {
+    display: none;
+  }
+  
+
+  
+  

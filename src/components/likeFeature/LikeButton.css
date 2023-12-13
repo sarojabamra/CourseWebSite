@@ -1,0 +1,18 @@
+.like img {
+    margin-left: -1.5rem;
+    height: 1.4rem;
+    width: 1.4rem;
+    margin-top: -0.2rem;
+}
+
+.likee {
+    display: flex;
+    flex-direction: row;
+}
+
+.like p {
+    margin-top: -0.1rem;
+    margin-left: 0.4rem;
+    opacity: 50%;
+}
+
