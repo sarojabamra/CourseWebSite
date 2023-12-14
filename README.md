@@ -18,6 +18,7 @@ This website consists of the following features:
 3. Dashboard: Track enrolled courses' progress, easy access to course details, remove courses after they're marked as completed.
 4. Favorites & Likes: Add courses to favorites by liking the courses (State management done with redux).
 5. Overall, there is smooth navigation, with responsive design for different screen sizes.
+6. The Sign in/Sign up features do not work as there is no connection to the backend yet.
    
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
