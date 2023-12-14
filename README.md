@@ -10,7 +10,15 @@ Deployed website on Vercel: https://course-web-site.vercel.app/
 4. Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# Features:
 
+This website consists of the following features, the design was done by me:
+1. Course List Page: Browse courses, search by keywords, data fetched from a dummy API.
+2. Course Details: View course information, like and enroll for courses.
+3. Dashboard: Track enrolled courses' progress, easy access to course details.
+4. Favorites & Likes: Add courses to favorites by liking the courses (State management done with redux).
+5. Overall, there is smooth navigation, with responsive design for different screen sizes.
+   
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
