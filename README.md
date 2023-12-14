@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 This website consists of the following features:
 1. Course List Page: Browse courses, search by keywords, data fetched from a dummy API.
 2. Course Details: View course information, like and enroll for courses.
-3. Dashboard: Track enrolled courses' progress, easy access to course details.
+3. Dashboard: Track enrolled courses' progress, easy access to course details, remove courses after they're marked as completed.
 4. Favorites & Likes: Add courses to favorites by liking the courses (State management done with redux).
 5. Overall, there is smooth navigation, with responsive design for different screen sizes.
    
