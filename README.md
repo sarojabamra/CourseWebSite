@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Getting Started with CourseWave
+
+Deployed website on Vercel: https://course-web-site.vercel.app/
+
+# How to host locally
+
+1. Clone this repository ( git clone https://github.com/sarojabamra/CourseWebSite.git )
+2. npm install
+3. npm start
+   Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
