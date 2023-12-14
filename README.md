@@ -7,7 +7,7 @@ Deployed website on Vercel: https://course-web-site.vercel.app/
 1. Clone this repository ( git clone https://github.com/sarojabamra/CourseWebSite.git )
 2. npm install
 3. npm start
-   Runs the app in the development mode.\
+4. Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
