@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 # Features:
 
-This website consists of the following features, the design was done by me:
+This website consists of the following features:
 1. Course List Page: Browse courses, search by keywords, data fetched from a dummy API.
 2. Course Details: View course information, like and enroll for courses.
 3. Dashboard: Track enrolled courses' progress, easy access to course details.
